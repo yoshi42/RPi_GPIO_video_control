@@ -4,6 +4,7 @@ RPi_GPIO_video_control - script to control playing video files with omx player. 
 GPIO  pin - short to ground
 
 Playing video while button pressed and stopped playing while released
+
 GPIO17 - play file  /home/pi/Videos/movie1.mp4
 
 GPIO18 - play file  /home/pi/Videos/movie2.mp4
